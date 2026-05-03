@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 $(document).ready(function(){
     $(window).scroll(function(){
         if(this.scrollY > 20){
@@ -57,7 +56,7 @@ $(`.carousel`).owlCarousel({
 
 });
 
-=======
+
 $(document).ready(function(){
     $(window).scroll(function(){
         if(this.scrollY > 20){
@@ -115,5 +114,3 @@ $(`.carousel`).owlCarousel({
 });
 
 });
-
->>>>>>> 60df57b4ab3cff046d6dc95c7f677dfe43f6d2b1
